@@ -5,4 +5,4 @@ gem 'chefspec'
 gem 'inspec'
 gem 'kitchen-inspec'
 gem 'berkshelf'
-gem 'kitchen-vcenter', path: "../kitchen-vcenter/"
+gem 'kitchen-vcenter', path: "../
